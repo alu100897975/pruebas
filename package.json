@@ -9,6 +9,14 @@
   "author": "FNMT",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "gitbook-cli": "^2.3.0",
+    "gulp-cli": "^1.2.2",
+    "gulp-shell": "^0.5.2",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.66.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
